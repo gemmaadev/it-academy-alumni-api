@@ -8,8 +8,7 @@
       "company": "TechSolutions Inc.",
       "classOf": 2010,
       "location": "San Francisco, CA",
-      "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
-    },
+     },
     {
       "id": 2,
       "firstName": "Sarah",
@@ -18,8 +17,7 @@
       "company": "GreenWave",
       "classOf": 2015,
       "location": "New York, NY",
-      "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
-    },
+     },
     {
       "id": 3,
       "firstName": "Michael",
@@ -28,8 +26,7 @@
       "company": "EduLearn Academy",
       "classOf": 2008,
       "location": "Chicago, IL",
-      "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
-    },
+     },
     {
       "id": 4,
       "firstName": "Emily",
@@ -38,8 +35,7 @@
       "company": "BioTech Labs",
       "classOf": 2012,
       "location": "Remote",
-      "avatar": "https://randomuser.me/api/portraits/women/4.jpg"
-    },
+     },
     {
       "id": 5,
       "firstName": "James",
@@ -48,8 +44,7 @@
       "company": "Lee & Associates",
       "classOf": 2005,
       "location": "Boston, MA",
-      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
-    },
+     },
     {
       "id": 6,
       "firstName": "Alice",
@@ -58,8 +53,7 @@
       "company": "Tech Solutions",
       "classOf": 2014,
       "location": "Remote",
-      "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
-    },
+     },
     {
       "id": 7,
       "firstName": "David",
@@ -68,8 +62,7 @@
       "company": "Brand Co",
       "classOf": 2011,
       "location": "Chicago, IL",
-      "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
-    },
+     },
     {
       "id": 8,
       "firstName": "Jane",
@@ -78,8 +71,7 @@
       "company": "ABC Inc",
       "classOf": 2009,
       "location": "New York, NY",
-      "avatar": "https://randomuser.me/api/portraits/women/8.jpg"
-    }
+     }
   ],
   "activity": [
     {
