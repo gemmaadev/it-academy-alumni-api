@@ -81,5 +81,35 @@
       "avatar": "https://randomuser.me/api/portraits/women/8.jpg"
     }
   ],
+  "activity": [
+    {
+      "id": 1,
+      "type": "follow",
+      "actor": "Jane Smith",
+      "target": "John Doe",
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "type": "connection",
+      "actor": "David Brown",
+      "target": "John Doe",
+      "timestamp": "2024-01-15T09:00:00Z"
+    },
+    {
+      "id": 3,
+      "type": "share",
+      "actor": "John Doe",
+      "content": "Top 10 Product Management Tips",
+      "timestamp": "2024-01-15T08:00:00Z"
+    },
+    {
+      "id": 4,
+      "type": "connection",
+      "actor": "Jane Smith",
+      "target": "David Brown",
+      "timestamp": "2024-01-14T15:00:00Z"
+    }
+  ],
   "jobs": []
 }
