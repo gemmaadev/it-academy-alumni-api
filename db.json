@@ -7,7 +7,7 @@
       "position": "CEO",
       "company": "TechSolutions Inc.",
       "classOf": 2010,
-      "location": "San Francisco, CA",
+      "location": "San Francisco, CA"
      },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "position": "Marketing Director",
       "company": "GreenWave",
       "classOf": 2015,
-      "location": "New York, NY",
+      "location": "New York, NY"
      },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "position": "Founder",
       "company": "EduLearn Academy",
       "classOf": 2008,
-      "location": "Chicago, IL",
+      "location": "Chicago, IL"
      },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "position": "Research Scientist",
       "company": "BioTech Labs",
       "classOf": 2012,
-      "location": "Remote",
+      "location": "Remote"
      },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "position": "Managing Partner",
       "company": "Lee & Associates",
       "classOf": 2005,
-      "location": "Boston, MA",
+      "location": "Boston, MA"
      },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "position": "Senior Developer",
       "company": "Tech Solutions",
       "classOf": 2014,
-      "location": "Remote",
+      "location": "Remote"
      },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "position": "Marketing Specialist",
       "company": "Brand Co",
       "classOf": 2011,
-      "location": "Chicago, IL",
+      "location": "Chicago, IL"
      },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "position": "Co-Founder",
       "company": "ABC Inc",
       "classOf": 2009,
-      "location": "New York, NY",
+      "location": "New York, NY"
      }
   ],
   "activity": [
