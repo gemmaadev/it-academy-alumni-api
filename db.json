@@ -103,5 +103,94 @@
       "timestamp": "2024-01-14T15:00:00Z"
     }
   ],
-  "jobs": []
+ "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "ABC",
+      "location": "San Francisco",
+      "type": "Full-time",
+      "postedDaysAgo": 3,
+      "applyBy": "Nov 20",
+      "industry": "Technology",
+      "experienceLevel": "Senior"
+    },
+    {
+      "id": 2,
+      "title": "Product Manager",
+      "company": "TechCorp",
+      "location": "Remote",
+      "type": "Remote",
+      "postedDaysAgo": 7,
+      "applyBy": "Dec 1",
+      "industry": "Technology",
+      "experienceLevel": "Mid"
+    },
+    {
+      "id": 3,
+      "title": "Data Analyst",
+      "company": "DataCo",
+      "location": "Remote",
+      "type": "Contract",
+      "postedDaysAgo": 2,
+      "applyBy": "Nov 25",
+      "industry": "Technology",
+      "experienceLevel": "Junior"
+    },
+    {
+      "id": 4,
+      "title": "UX Designer",
+      "company": "DesignHub",
+      "location": "Remote",
+      "type": "Part-time",
+      "postedDaysAgo": 5,
+      "applyBy": "Nov 28",
+      "industry": "Design",
+      "experienceLevel": "Mid"
+    },
+    {
+      "id": 5,
+      "title": "Marketing Lead",
+      "company": "XYZ",
+      "location": "Remote",
+      "type": "Full-time",
+      "postedDaysAgo": 1,
+      "applyBy": "Nov 15",
+      "industry": "Marketing",
+      "experienceLevel": "Senior"
+    },
+    {
+      "id": 6,
+      "title": "HR Specialist",
+      "company": "PeopleFirst",
+      "location": "New York",
+      "type": "Part-time",
+      "postedDaysAgo": 4,
+      "applyBy": "Dec 5",
+      "industry": "Human Resources",
+      "experienceLevel": "Junior"
+    },
+    {
+      "id": 7,
+      "title": "Clinical Analyst",
+      "company": "MediCare",
+      "location": "New York",
+      "type": "Full-time",
+      "postedDaysAgo": 2,
+      "applyBy": "Nov 30",
+      "industry": "Healthcare",
+      "experienceLevel": "Mid"
+    },
+    {
+      "id": 8,
+      "title": "Content Writer",
+      "company": "WritersHub",
+      "location": "Remote",
+      "type": "Part-time",
+      "postedDaysAgo": 6,
+      "applyBy": "Dec 5",
+      "industry": "Marketing",
+      "experienceLevel": "Junior"
+    }
+  ]
 }
